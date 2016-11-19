@@ -3,7 +3,6 @@ version: "2"
 services:
 
   smppsim:
-    build: .
     image: antenehrepos/smppsim
     container_name: smppsim
     ports:
