@@ -38,4 +38,5 @@ You can use docker-compose in this repo to just build and run SMPPSim.
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see http://www.gnu.org/licenses/.
     
- [![](https://images.microbadger.com/badges/image/antenehrepos/docker-smppsim.svg)](https://microbadger.com/images/antenehrepos/docker-smppsim "Get your own image badge on microbadger.com")
+[![](https://images.microbadger.com/badges/image/antenehrepos/docker-smppsim.svg)](https://microbadger.com/images/antenehrepos/docker-smppsim "Get your own image badge on microbadger.com")
+[![](https://images.microbadger.com/badges/version/antenehrepos/docker-smppsim.svg)](https://microbadger.com/images/antenehrepos/docker-smppsim "Get your own version badge on microbadger.com")
